@@ -21,8 +21,13 @@ let turn;
 let winner;
 
 const boardEl = document.getElementById("board");
+const restartBtn =document.getElementById("restartBtn");
 
 boardEl.addEventListener("click", handleClick);
+restartBtn.addEventListener('click', function (event) {
+    event.preventDefault();
+    restart();
+});
 
 function init() {
     board = [null, null, null, null, null, null, null, null, null];
@@ -58,6 +63,16 @@ function checkWinner() {
     if (!board.includes(null)) return "TIE";
 
     return null;
+}
+
+function restart() {
+    init(); // Reset the game state
+
+    // Clear the board display
+    for (let i = 0; i < board.length; i++) {
+        const sq = document.getElementById(i);
+        sq.innerHTML = "";
+    }
 }
 
 init();

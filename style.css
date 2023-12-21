@@ -4,7 +4,17 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Games', sans-serif;
+                                                
+    background-image: url("https://wallpapercave.com/wp/wp8984736.jpg");
+}
+
+#score {
+    font-size: 20px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .container {
@@ -16,6 +26,8 @@ body {
     grid-template-columns: repeat(3, 100px);
     grid-gap: 5px;
     margin: 20px auto;
+    /* chabged  backgroung color of cells  */
+    background-color: aliceblue;
 }
 
 .cell {

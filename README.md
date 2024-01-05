@@ -1,6 +1,6 @@
 # Tic Tac Toe
 ![Tic_Tac_Toe](https://www.fahr-industries.com/wp-content/uploads/2020/06/FITICTAC6_panel_iso.jpg)
-## Date 01/20/2023
+## Date 01/04/2024
 ### By: Ifeanyi Njoku
 ### |[Linkenin](https://www.linkedin.com/in/ifeanyi-njoku-4a6888188/) | [Github](https://github.com/Nanivile)
 ***

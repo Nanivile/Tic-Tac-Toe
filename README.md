@@ -16,6 +16,8 @@
 ## ***Screenshots***
 ![Game Picture](https://imgur.com/TZN4Cvr)
 ***
+#### The project itself was deployed and can be viewed [here](https://nanivile.github.io/Tic-Tac-Toe/).
+***
 ## ***Installation Instructions***
 #### There aren't any installation instructions, you just click on the game and start playing.
 ***

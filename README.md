@@ -14,7 +14,7 @@
 * GitHub 
 ***
 ## ***Screenshots***
-![Game Picture](https://imgur.com/TZN4Cvr)
+![Game Picture](https://i.imgur.com/TZN4Cvr.png)
 ***
 #### The project itself was deployed and can be viewed [here](https://nanivile.github.io/Tic-Tac-Toe/).
 ***
